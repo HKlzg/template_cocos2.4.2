@@ -1,0 +1,62 @@
+{
+  "group-list": [
+    "default",
+    "Sky",
+    "UI"
+  ],
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "Collider",
+    "DragonBones",
+    "EditBox",
+    "MotionStreak",
+    "Physics",
+    "ParticleSystem",
+    "RichText",
+    "Slider",
+    "Spine Skeleton",
+    "StudioComponent",
+    "TiledMap",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
+  ],
+  "preview-port": 7456,
+  "design-resolution-width": 750,
+  "design-resolution-height": 1334,
+  "fit-width": true,
+  "fit-height": false,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "assets-sort-type": "name",
+  "last-module-event-record-time": 1597801903944,
+  "start-scene": "979a826b-65b5-4a05-83cb-c360d3bc57a1"
+}
